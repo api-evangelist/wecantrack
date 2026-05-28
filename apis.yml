@@ -1,0 +1,32 @@
+aid: wecantrack
+name: WeCanTrack
+description: "Automatically place subids in affiliate links to attribute affiliate conversions to click data"
+url: https://docs.wecantrack.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Tracking"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Tracking
+  - Public APIs
+apis:
+  - name: WeCanTrack
+    description: "Automatically place subids in affiliate links to attribute affiliate conversions to click data"
+    humanURL: https://docs.wecantrack.com
+    baseURL: https://docs.wecantrack.com
+    tags:
+      - Tracking
+    properties:
+      - type: Documentation
+        url: https://docs.wecantrack.com
+common:
+  - type: Website
+    url: https://docs.wecantrack.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
