@@ -35,11 +35,13 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Tracking
   - Public APIs
+  - Affiliate Marketing
+  - Conversion Tracking
+  - Attribution
 apis:
   - name: WeCanTrack
     description: "Automatically place subids in affiliate links to attribute affiliate conversions to click data"
     humanURL: https://docs.wecantrack.com
-    baseURL: https://docs.wecantrack.com
     tags:
       - Tracking
     properties:
